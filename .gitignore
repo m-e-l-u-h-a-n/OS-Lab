@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*.pdf
+!README.md
+!*/
+!*.cpp
+!*.c
